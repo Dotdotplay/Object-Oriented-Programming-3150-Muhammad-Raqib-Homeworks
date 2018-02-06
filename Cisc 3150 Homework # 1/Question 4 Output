@@ -1,0 +1,13 @@
+//Input and OUtput for Question 4
+
+C:\Users\muhammad\eclipse-workspace2542\Cisc 3150 Homework # 1\src\homeworkQuestions>javac Question4.java
+
+C:\Users\muhammad\eclipse-workspace2542\Cisc 3150 Homework # 1\src\homeworkQuestions>cd C:\Users\muhammad\eclipse-workspace2542\Cisc 3150 Homework # 1\src
+
+C:\Users\muhammad\eclipse-workspace2542\Cisc 3150 Homework # 1\src>java homeworkQuestions.Question4 < input.txt
+
+2
+3
+4
+2
+4

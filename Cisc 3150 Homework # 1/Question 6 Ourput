@@ -1,0 +1,51 @@
+//Output for Question#6
+//circles are within each other
+
+Enter Center Coordinates for Circle1
+0 0
+Enter Center Coordinates for Circle12
+0 0 
+Enter Radius of Circle1
+1
+Enter Radius of Circle2
+2
+The Two Circles are not Disjointed
+The Two Circles are within each other
+The Two Circles do not intersect
+The Two Circles do not Overlap
+
+//circles intersect
+
+Enter Center Coordinates for Circle1
+0 .5
+Enter Center Coordinates for Circle12
+0 -.5
+Enter Radius of Circle1
+1
+Enter Radius of Circle2
+1
+The Two Circles are not Disjointed
+The Two Circles are not within each other
+The Two Circles intersect
+The Two Circles do not Overlap
+
+//circles are completly disjointed
+
+Enter Center Coordinates for Circle1
+0 0
+Enter Center Coordinates for Circle12
+0 4
+Enter Radius of Circle1
+1
+Enter Radius of Circle2
+1
+The Two Circles are Disjointed
+The Two Circles are not within each other
+The Two Circles do not intersect
+The Two Circles do not Overlap
+
+// Circles completly overlap 
+The Two Circles are not Disjointed
+The Two Circles are within each other
+The Two Circles intersect
+The Two Overlap
